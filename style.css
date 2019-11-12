@@ -13,7 +13,7 @@
 #overview {
 display: flex;
 justify-content: space-between;
-margin-right: 500px;
+
 }
 #overview-img{
     display: flex;
@@ -99,7 +99,7 @@ justify-content: space-around;
         }
         
         .logos2{
-            width: 80%;
+            width: 40vw;
         }
         .logos3{
             width: 90%;
